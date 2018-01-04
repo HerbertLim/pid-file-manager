@@ -1,0 +1,11 @@
+{
+  "name": "pid-file-manager",
+  "version": "0.0.1",
+  "description": "PID를 파일에 기록하고 읽어오는 간단한 라이브러리",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Herbert Lim",
+  "license": "ISC"
+}
